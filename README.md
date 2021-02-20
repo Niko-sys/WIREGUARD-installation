@@ -1,19 +1,23 @@
-# installation
-quick installation scripts 
+# EASY and beginner friendly WIREGUARD installation and configuration script
 
-git clone https://github.com/Niko-sys/installation.git &&
-cd installation &&
-sh subspace-wireguard-docker-install.sh
+requires root access 
 
+won't run on OVZ VPS 
 
-docker-Install.sh - Installs Docker ONLY,
+WILL CHECK FOR NECCESSARY REQUIREMENTS AUTOMATICALLY
+ 
+ 
+ 
+     EXAMPLE FOR UBUNTU 20.10 x64 
+ 
+     sudo apt-get update  
+ 
+     git clone https://github.com/Niko-sys/installation.git && cd installation && sudo bash wireguard-setup.sh
+ 
+ FREE200 USD credit for 60 days 
+  https://m.do.co/c/4fbdb5048272
 
-  
-wireguard-install.sh - Installs Wireguard ONLY, 
-
-
-
-subspace-wireguard-docker - Install.sh wireguard+docker+subspace 
+ 
 
 
 
