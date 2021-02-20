@@ -12,7 +12,7 @@ WILL CHECK FOR NECCESSARY REQUIREMENTS AUTOMATICALLY
  
      sudo apt-get update  
  
-     git clone https://github.com/Niko-sys/installation.git && cd installation && sudo bash wireguard-setup.sh
+     git clone https://github.com/Niko-sys/WIREGUARD-installation.git && cd WIREGUARD-installation && sudo bash wireguard-setup.sh
  
  FREE200 USD credit for 60 days 
   https://m.do.co/c/4fbdb5048272
