@@ -8,7 +8,7 @@ WILL CHECK FOR NECCESSARY REQUIREMENTS AUTOMATICALLY
  
  
  
-     EXAMPLE FOR UBUNTU 20.10 x64 
+     EXAMPLE FOR UBUNTU 20.10 x64 and 18.04 x64
  
      sudo apt-get update  
  
@@ -19,7 +19,7 @@ WILL CHECK FOR NECCESSARY REQUIREMENTS AUTOMATICALLY
 
  
 
-    EXAMPLE FOR CentOS 8x64
+    EXAMPLE FOR CentOS 8x64 (doesn't not work on 7)
     sudo yum install git
     git clone https://github.com/Niko-sys/WIREGUARD-installation.git && cd WIREGUARD-installation && sudo bash wireguard-setup.sh
 
