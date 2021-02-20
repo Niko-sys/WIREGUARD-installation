@@ -19,6 +19,8 @@ WILL CHECK FOR NECCESSARY REQUIREMENTS AUTOMATICALLY
 
  
 
-
+    EXAMPLE FOR CentOS 8x64
+    sudo yum install git
+    git clone https://github.com/Niko-sys/WIREGUARD-installation.git && cd WIREGUARD-installation && sudo bash wireguard-setup.sh
 
 
