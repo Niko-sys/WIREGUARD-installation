@@ -1,6 +1,17 @@
 # installation
 quick installation scripts 
 
+git clone https://github.com/Niko-sys/installation.git
+cd installation
+sh 
+
+
+
+
+
+
+
+
 STEP 1 - Docker intallation
 
 From https://get.docker.com:
