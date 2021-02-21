@@ -14,7 +14,7 @@ WILL CHECK FOR NECCESSARY REQUIREMENTS AUTOMATICALLY
  
      git clone https://github.com/Niko-sys/WIREGUARD-installation.git && cd WIREGUARD-installation && sudo bash wireguard-setup.sh
  
- FREE200 USD credit for 60 days 
+ GET FREE 100 USD credit for 60 days 
   https://m.do.co/c/4fbdb5048272
 
  
